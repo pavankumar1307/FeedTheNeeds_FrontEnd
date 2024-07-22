@@ -82,3 +82,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ![SHOW DONATION ANNOUNCEMENT PAGE](https://github.com/user-attachments/assets/c207eed8-c2d2-4a00-bc83-665eb3528957)
 
 ![VISUAL APPEAL AMPLIFIED THROUGH FACEBOOK, INSTAGRAM AND TELEGRAM INTEGRATION](https://github.com/user-attachments/assets/efd40417-0864-4972-b51c-c428295ca4e7)
+
+Poster
+[postfinal.pdf](https://github.com/user-attachments/files/16327867/postfinal.pdf)
