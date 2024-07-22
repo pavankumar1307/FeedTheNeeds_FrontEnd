@@ -84,4 +84,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ![VISUAL APPEAL AMPLIFIED THROUGH FACEBOOK, INSTAGRAM AND TELEGRAM INTEGRATION](https://github.com/user-attachments/assets/efd40417-0864-4972-b51c-c428295ca4e7)
 
 Poster
-[postfinal.pdf](https://github.com/user-attachments/files/16327867/postfinal.pdf)
+
+![postfinal (1)_page-0001](https://github.com/user-attachments/assets/c1575cb4-0a4d-4567-bfc2-2c55c2451ac8)
+
