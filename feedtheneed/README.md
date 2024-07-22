@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+![Streamlined user authentication with an intuitive signup screen, enhancing the user experience and security.](https://github.com/user-attachments/assets/9240937f-1929-41d9-be1f-9b0b22a331ab)
+
+![Simplified food donation process with an easy-to-use interface](https://github.com/user-attachments/assets/fe8fbe4a-c555-48e5-84c5-6dea96a67e33)
+
+![Enhanced user experience through detailed food post displays.](https://github.com/user-attachments/assets/6dc54daf-7966-457a-84b2-5e9e10930996)
+
+![Enhanced efficiency with scheduled posts](https://github.com/user-attachments/assets/42fc966d-3b6f-45f1-afce-36f6278e4381)
+
+![CREATE DONATION ANNOUNCEMENT PAGE](https://github.com/user-attachments/assets/c2591b49-3022-456d-ad84-bf74270b8168)
+
+![SHOW DONATION ANNOUNCEMENT PAGE](https://github.com/user-attachments/assets/c207eed8-c2d2-4a00-bc83-665eb3528957)
+
+![VISUAL APPEAL AMPLIFIED THROUGH FACEBOOK, INSTAGRAM AND TELEGRAM INTEGRATION](https://github.com/user-attachments/assets/efd40417-0864-4972-b51c-c428295ca4e7)
